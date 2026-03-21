@@ -1,5 +1,8 @@
 {
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "https://cdn.jsdelivr.net/gh/SkyGinn/racoon-storage/Enotoskop.apk"
+    "apkUrl": "https://cdn.jsdelivr.net/gh/SkyGinn/racoon-storage/Enotoskop.apk",
+    "changelog": [
+        
+    ]
 }
