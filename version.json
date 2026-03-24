@@ -1,9 +1,11 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
+    "versionCode": 3,
+    "versionName": "1.2",
     "apkUrl": "https://cdn.jsdelivr.net/gh/SkyGinn/racoon-storage/Enotoskop.apk",
     "changelog": [
-        "Новый фичи",
+        "Новый стиль",
+        "Заставка",
+        "Кнопка Похвастаться (пересылает сразу с рамкой)",
         "Больше енотов",
         "Ещё больше енотов",
         "Реально больше енотов, прям очень много их тут"        
